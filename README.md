@@ -1,4 +1,4 @@
-## Hi, I'm Junyi Wang
+## Hi, I'm Junyi
 A fullstack software engineer. \
-More information on my [personal website](https://profile.junyi.me/)
+More information on my [personal website](https://junyi.me/).
 
